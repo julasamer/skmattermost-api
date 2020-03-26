@@ -1,0 +1,25 @@
+
+  {
+    "swagger": "2.0",
+    "info": {
+      "description": "ShopKit Mattermost API",
+      "title": "SKMattermost",
+      "contact": {
+        "name": "ERN Mobile Platform Team"
+      }
+    },
+    "paths": {
+      "event/closeRequested": {
+        "event": {
+          "tags": [
+          "Close"
+          ],
+          "operationId": "closeRequested",
+          "parameters": []
+        }
+      }
+    },
+    "definitions": {
+    }
+  }
+  

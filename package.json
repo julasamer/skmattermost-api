@@ -1,0 +1,28 @@
+{
+  "author": "julianasamer",
+  "dependencies": {
+    "react-native-electrode-bridge": "1.5.x"
+  },
+  "description": "ERN Generated API for SKMattermostApi",
+  "devDependencies": {
+    "flow-bin": "^0.47.0"
+  },
+  "ern": {
+    "message": {
+      "moduleName": "SKMattermostApi",
+      "namespace": "com.SKMattermostApi.ern",
+      "apiSchemaPath": "schema.json",
+      "artifactId": "react-native-SKMattermostApi-api"
+    },
+    "moduleType": "ern-api"
+  },
+  "keywords": [
+    "ern-api"
+  ],
+  "main": "javascript/src/index.js",
+  "name": "skmattermost-api",
+  "scripts": {
+    "flow": "flow"
+  },
+  "version": "1.0.0"
+}
